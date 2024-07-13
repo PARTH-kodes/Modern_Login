@@ -31,11 +31,11 @@ This is a modern and visually appealing login and registration page with transit
 
 ## Screenshots
 
-### Create Account
+#### Create Account
 
 ![Create Account](SCREENSHOTS/Create%20Account.png)
 
-### Sign In
+#### Sign In
 
 ![Sign In](SCREENSHOTS/Sign%20In.png)
 
@@ -47,4 +47,5 @@ To customize the colors or styles, edit the `style.css` file. You can change the
 If you have any questions or suggestions, feel free to contact me:
 
 Email: officialparth18@gmail.com
+
 GitHub: github.com/PARTH-kodes
