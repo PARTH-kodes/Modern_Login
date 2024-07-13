@@ -48,4 +48,4 @@ If you have any questions or suggestions, feel free to contact me:
 
 Email: officialparth18@gmail.com
 
-GitHub: github.com/PARTH-kodes
+GitHub: https://github.com/PARTH-kodes
